@@ -5,11 +5,11 @@ July 11, 2014
 
 ## ✍️ Exploit Author
 - **Christian (Polunchis) Ramirez** — [https://intlabs.ca](https://intlabs.ca)
-- **Henoch (Chan0c) Barrera** — [https://intlabs.ca](https://intlabs.ca)
+
 
 **Contacts:**  
 - polunchis@intlabs.ca  
-- chanoc@intlabs.ca  
+
 
 ## 📦 Software Information
 - **Affected Software:** Kolibri WebServer 2.0
